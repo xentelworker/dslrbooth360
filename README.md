@@ -51,7 +51,7 @@ A Windows batch script that acts as the bridge between dslrBooth and the Arduino
     - Click **Upload** to flash the firmware to the Arduino.
 
 3.  **Windows PC Setup:**
-    - Create a folder on your PC (e.g., `C:\dslrBoothTrigger`).
+    - Create a folder on your PC (e.g., `C:\dslrBooth\scripts`).
     - Place `BoothON.bat` and your chosen serial utility (e.g., `serialsend.exe`) into this folder.
     - **Important:** If your Arduino is not on COM4, edit `BoothON.bat` and change the `/devnum 4` parameter to match the correct COM port number.
     - Open dslrBooth and navigate to `Settings > Triggers`.
