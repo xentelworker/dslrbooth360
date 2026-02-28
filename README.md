@@ -36,7 +36,7 @@ A Windows batch script that acts as the bridge between dslrBooth and the Arduino
 ### Software
 - dslrBooth Professional for Windows.
 - Arduino IDE.
-- A command-line serial utility for Windows. The batch script is configured for `serialsend.exe`, which is not included in this repository but can be found online.
+- A command-line serial utility for Windows. The batch script is configured for `serialsend.exe`, which is not included in this repository but can be found here: https://batchloaf.wordpress.com/serialsend/.
 
 ## Setup and Usage
 1.  **Hardware Wiring:**
