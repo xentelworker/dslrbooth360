@@ -1,4 +1,4 @@
-# Dslrbooth 360 GoPro Automation
+# Dslrbooth 360 Automation
 
 ## Overview
 This repository contains the necessary scripts and Arduino firmware to automate a 360 photo booth, integrating it directly with dslrBooth software. The system uses a Windows batch script triggered by dslrBooth to send a serial command to an Arduino, which then controls the booth's motor for a set duration.
